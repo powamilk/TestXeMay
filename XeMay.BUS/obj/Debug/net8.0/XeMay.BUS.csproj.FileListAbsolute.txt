@@ -1,0 +1,14 @@
+C:\Users\hieut\source\repos\TestXeMay\XeMay.BUS\bin\Debug\net8.0\XeMay.BUS.deps.json
+C:\Users\hieut\source\repos\TestXeMay\XeMay.BUS\bin\Debug\net8.0\XeMay.BUS.runtimeconfig.json
+C:\Users\hieut\source\repos\TestXeMay\XeMay.BUS\bin\Debug\net8.0\XeMay.BUS.dll
+C:\Users\hieut\source\repos\TestXeMay\XeMay.BUS\bin\Debug\net8.0\XeMay.BUS.pdb
+C:\Users\hieut\source\repos\TestXeMay\XeMay.BUS\obj\Debug\net8.0\XeMay.BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieut\source\repos\TestXeMay\XeMay.BUS\obj\Debug\net8.0\XeMay.BUS.AssemblyInfoInputs.cache
+C:\Users\hieut\source\repos\TestXeMay\XeMay.BUS\obj\Debug\net8.0\XeMay.BUS.AssemblyInfo.cs
+C:\Users\hieut\source\repos\TestXeMay\XeMay.BUS\obj\Debug\net8.0\XeMay.BUS.csproj.CoreCompileInputs.cache
+C:\Users\hieut\source\repos\TestXeMay\XeMay.BUS\obj\Debug\net8.0\XeMay.BUS.dll
+C:\Users\hieut\source\repos\TestXeMay\XeMay.BUS\obj\Debug\net8.0\refint\XeMay.BUS.dll
+C:\Users\hieut\source\repos\TestXeMay\XeMay.BUS\obj\Debug\net8.0\XeMay.BUS.pdb
+C:\Users\hieut\source\repos\TestXeMay\XeMay.BUS\obj\Debug\net8.0\XeMay.BUS.genruntimeconfig.cache
+C:\Users\hieut\source\repos\TestXeMay\XeMay.BUS\obj\Debug\net8.0\ref\XeMay.BUS.dll
+C:\Users\hieut\source\repos\TestXeMay\XeMay.BUS\obj\Debug\net8.0\XeMay.BUS.csproj.AssemblyReference.cache
